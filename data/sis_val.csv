@@ -1,4 +1,4 @@
-image1,image2,agg_score,i2i_csim
+image1,image2,agg_score,sampling_method
 COCO_val2014_000000032001.jpg,COCO_val2014_000000432818.jpg,0.5,i2i_csim
 COCO_val2014_000000006012.jpg,COCO_val2014_000000346707.jpg,1.84,i2i_csim
 COCO_val2014_000000272117.jpg,COCO_val2014_000000161447.jpg,2.31,i2i_csim

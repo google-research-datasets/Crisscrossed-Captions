@@ -1,4 +1,4 @@
-caption,image,agg_score,c2i_intrasim
+caption,image,agg_score,sampling_method
 COCO_val2014:sentid:648388,COCO_val2014_000000431431.jpg,1.8,c2i_intrasim
 COCO_val2014:sentid:346617,COCO_val2014_000000302572.jpg,4.99,c2i_intrasim
 COCO_val2014:sentid:33416,COCO_val2014_000000545309.jpg,2.93,c2i_intrasim

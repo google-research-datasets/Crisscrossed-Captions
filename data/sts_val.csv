@@ -1,4 +1,4 @@
-caption1,caption2,agg_score,c2c_isim
+caption1,caption2,agg_score,sampling_method
 COCO_val2014:sentid:190268,COCO_val2014:sentid:315773,1.24,c2c_isim
 COCO_val2014:sentid:765798,COCO_val2014:sentid:692352,2.4,c2c_isim
 COCO_val2014:sentid:71510,COCO_val2014:sentid:305947,1.89,c2c_isim
